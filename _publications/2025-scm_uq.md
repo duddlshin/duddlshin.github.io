@@ -3,6 +3,7 @@ title: " Accelerated Bayesian calibration and uncertainty quantification of RANS
 collection: publications
 category: manuscripts
 permalink: /publication/2025-scm_uq
-venue: 'In review'
+date:        2025-05-23      
+status:      "In review"
 paperurl: 'https://arxiv.org/pdf/2505.18756'
 ---
