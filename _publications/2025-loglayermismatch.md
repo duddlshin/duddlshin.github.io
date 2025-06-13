@@ -1,6 +1,6 @@
 ---
 title: "Addressing grid convergence and log-layer mismatch in wall modeled large eddy simulations of geophysical flows over rough surfaces and canopies"
-author: Shin EY, Yang X, & Howland MF
+author: Shin EY, Yang XIA, & Howland MF
 collection: publications
 category: manuscripts
 permalink: /publication/2025-loglayermismatch
