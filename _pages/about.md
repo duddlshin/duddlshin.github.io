@@ -1,10 +1,9 @@
 ---
 permalink: /
-title: "Public but under construction."
+title: "Under construction."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 
