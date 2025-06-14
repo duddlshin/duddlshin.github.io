@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[See CV]({{ '/files/EYS_CV.pdf' | relative_url }})
+[Curriculum Vitae]({{ '/files/EYS_CV.pdf' | relative_url }})
