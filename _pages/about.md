@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 I am a Ph.D. candidate in the [Department of Civil and Environmental Engineering](https://cee.mit.edu) (CEE) at the Massachusetts Institute of Technology (MIT), working with Professor Michael F. Howland in the [Howland Lab](https://www.howlandlab.com).
 My research lies at the intersection of environmental flow physics and computational science.
 I focus on atmospheric boundary layer (ABL) flows, turbulence, and uncertainty quantification methods for the development of more accurate parameterizations of turbulence in the ABL.
