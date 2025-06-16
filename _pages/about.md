@@ -19,8 +19,8 @@ When I'm not in the lab, you can find me playing basketball at the Zesiger Cente
 
 
 <div style="display: flex; gap: 1rem; justify-content: center; margin-top: 2rem;">
-  <img src="/files/basketball.jpg" alt="" style="width: 30%; border-radius: 8px;">
-  <img src="/files/running.jpg"    alt="" style="width: 30%; border-radius: 8px;">
-  <img src="/files/reading.jpg"     alt="" style="width: 30%; border-radius: 8px;">
+  <img src="/files/basketball.png" alt="" style="width: 30%; border-radius: 8px;">
+  <img src="/files/running.png"    alt="" style="width: 30%; border-radius: 8px;">
+  <img src="/files/reading.png"     alt="" style="width: 30%; border-radius: 8px;">
 </div>
 
