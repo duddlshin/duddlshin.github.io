@@ -18,9 +18,9 @@ By bridging physics‐based theory with observational data, I seek to advance fu
 When I'm not in the lab, you can find me playing basketball at the Zesiger Center, running along the Charles River, or reading my Kindle in a cafe filled with bibliosmia.
 
 
-<div style="display: flex; gap: 1rem; justify-content: center; margin-top: 2rem;">
+<!-- <div style="display: flex; gap: 1rem; justify-content: center; margin-top: 2rem;">
   <img src="/files/basketball.png" alt="" style="width: 30%; border-radius: 8px;">
   <img src="/files/running.png"    alt="" style="width: 30%; border-radius: 8px;">
   <img src="/files/reading.png"     alt="" style="width: 30%; border-radius: 8px;">
 </div>
-
+ -->
