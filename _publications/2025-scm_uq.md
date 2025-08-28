@@ -5,6 +5,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-scm_uq
 date:        2025-05-23      
-venue:      "In review"
+venue:      "Under revision"
 preprinturl: 'https://arxiv.org/pdf/2505.18756'
 ---
