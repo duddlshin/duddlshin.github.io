@@ -22,8 +22,8 @@ When I'm not in the lab, you can find me playing basketball at the Zesiger Cente
 ## **News**
 
 **November 2025** — I presented a talk at the 78th meeting of APS DFD in Houston, TX.<br>
-**November 2025** — Our paper was published in [Boundary-Layer Meteorology](https://doi.org/10.1007/s10546-025-00945-6).<br>
-**November 2025** — Our paper was published in [Boundary-Layer Meteorology](https://doi.org/10.1007/s10546-025-00934-9).<br>
+**November 2025** — Our paper was published in [Boundary Layer Meteorology](https://doi.org/10.1007/s10546-025-00945-6).<br>
+**November 2025** — Our paper was published in [Boundary Layer Meteorology](https://doi.org/10.1007/s10546-025-00934-9).<br>
 **June 2025** — I was awarded 1st Place Best Student Oral Presentation by the American Meteorological Society for my talk at the 25th Symposium on Boundary Layers and Turbulence in Torino, Italy.<br>
 **February 2025** - I presented a poster with Dr. Baris Kale at the 2025 CEE Annual Research Day.<br>
 **February 2025** - I became a student member of the Committee on Boundary Layers and Turbulence, American Meteorological Society.<br>
@@ -31,7 +31,7 @@ When I'm not in the lab, you can find me playing basketball at the Zesiger Cente
 **December 2024** — I presented a talk at the AGU24 Annual Meeting in Washington, D.C.<br>
 **November 2024** — I presented an invited talk at the 77th meeting of APS DFD in Salt Lake City, UT.<br>
 **August 2024** - I presented a poster at the KSEA Scientists and Engineers Early Career Development (SEED 2024) program.<br>
-**July 2024** — I participated in the Center for Turbulence Research Summer Program 2024.<br>
+**July 2024** — I participated in the CTR Summer Program 2024, Center for Turbulence Research, Stanford University.<br>
 **April 2024** - I passed my General Exam Part 2 and advanced to PhD candidacy.<br>
 **March 2024** - I served as panel director for the panel "Winds of change in offshore landscape" at the MIT Energy Conference.<br>
 **February 2024** - I presented a poster at the 2024 CEE Annual Research Day.<br>
