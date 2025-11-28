@@ -27,7 +27,7 @@ When I'm not in the lab, you can find me playing basketball at the Zesiger Cente
 **June 2025** — I was awarded 1st Place Best Student Oral Presentation by the American Meteorological Society for my talk at the 25th Symposium on Boundary Layers and Turbulence in Torino, Italy.<br>
 **February 2025** - I presented a poster with Dr. Baris Kale at the 2025 CEE Annual Research Day.<br>
 **February 2025** - I became a student member of the Committee on Boundary Layers and Turbulence, American Meteorological Society.<br>
-**December 2024** — Our report was published in Proceedings of the Summer Program, Center for Turbulence Research, Stanford University.<br>
+**December 2024** — Our report was published in [Proceedings of the Summer Program, Center for Turbulence Research, Stanford University](https://www.researchgate.net/profile/Tony-Zahtila-2/publication/388359360_Multifidelity_modeling_and_uncertainty_quantification_of_heterogeneous_roughness/links/6793eb514c479b26c9b2e7be/Multifidelity-modeling-and-uncertainty-quantification-of-heterogeneous-roughness.pdf).<br>
 **December 2024** — I presented a talk at the AGU24 Annual Meeting in Washington, D.C.<br>
 **November 2024** — I presented an invited talk at the 77th meeting of APS DFD in Salt Lake City, UT.<br>
 **August 2024** - I presented a poster at the KSEA Scientists and Engineers Early Career Development (SEED 2024) program.<br>
