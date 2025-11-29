@@ -1,16 +1,12 @@
 ---
-title: "Teaching Assistant"
+title: "1.61/1.061 Transport Processes in the Environment"
 collection: teaching
-type: "Graduate/undergraduate course"
+type: "Teaching Assistant"
 permalink: /teaching/2025-fall-teaching
 venue: "Massachusetts Institute of Technology, Civil and Environmental Engineering"
 date: 2025-09-01
 location: "Cambridge, U.S.A."
 ---
-
-Class
-======
-1.61/1.061 Transport Processes in the Environment
 
 Instructor
 ======
