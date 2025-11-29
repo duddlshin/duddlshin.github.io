@@ -1,5 +1,5 @@
 ---
-title: "1.61/1.061 Transport Processes in the Environment"
+title: "1.61/1.061/1.061A Transport Processes in the Environment"
 collection: teaching
 type: "Graduate/undergraduate class"
 permalink: /teaching/2025-fall-teaching
