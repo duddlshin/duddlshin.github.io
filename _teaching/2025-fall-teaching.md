@@ -24,5 +24,5 @@ Experience
 ======
 - Delivered two lectures on diffusion and random walk modeling
 - Held weekly office hours (two per week) to provide support on problem sets and lecture material
-- Designed and graded a problem set on turbulence
+- Designed and graded a problem set on turbulent diffusion
 - Developed and taught an undergraduate laboratory module on particle advection and diffusion
