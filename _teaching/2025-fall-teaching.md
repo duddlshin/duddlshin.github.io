@@ -8,6 +8,10 @@ date: 2025-09-01
 location: "Cambridge, U.S.A."
 ---
 
+Class
+======
+1.61/1.061 Transport Processes in the Environment
+
 Instructor
 ======
 Professor Heidi Nepf
@@ -18,3 +22,4 @@ Introduces mass transport in environmental flows, with emphasis on river and lak
 
 Responsibilities
 ======
+
