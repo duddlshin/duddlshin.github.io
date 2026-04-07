@@ -1,6 +1,6 @@
 ---
 title: "Smart Electric Mobility Operating System Integrated with Off-Grid Solar Power Plants in Tanzania: Vision and Trial Run"
-author: Rhee H, Im H, Manongi F, Shin EY, Song H, Jung W, & Ahn S
+author: Rhee H, Im H, Manongi F, Shin Y, Song H, Jung W, & Ahn S
 collection: publications
 category: manuscripts
 permalink: /publication/2021-smart_electric_mobility

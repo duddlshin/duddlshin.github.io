@@ -1,6 +1,6 @@
 ---
 title: "Multifidelity modeling and uncertainty quantification of heterogeneous roughness"
-author: Shin EY, Chan M, Wang J, Zahtila T, Gorle C, Iaccarino G, & Howland MF
+author: Shin Y, Chan M, Wang J, Zahtila T, Gorle C, Iaccarino G, & Howland MF
 collection: publications
 category: conferences
 permalink: /publication/2024-heterogeneous_roughness_uq
