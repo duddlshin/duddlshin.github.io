@@ -21,8 +21,8 @@ When I'm not in the lab, you can find me playing basketball at the Zesiger Cente
 
 ## **News**
 
-**April 2026** — I presented a talk at an Environmental Fluid Mechanics (EFM) meeting held at MIT
-**April 2026** — I presented a poster at the MIT Climate & Sustainability Consortium in a poster session on AI for Sustainability. <br>
+**April 2026** — I presented a talk at an Environmental Fluid Mechanics (EFM) meeting held at MIT.<br>
+**April 2026** — I presented a poster at the 2026 Member Meetings Poster Session on AI for Sustainability held by the MIT Climate & Sustainability Consortium.<br>
 **November 2025** — I presented a talk at the 78th meeting of APS DFD in Houston, TX.<br>
 **November 2025** — Our paper was published in [Boundary Layer Meteorology](https://doi.org/10.1007/s10546-025-00945-6).<br>
 **November 2025** — Our paper was published in [Boundary Layer Meteorology](https://doi.org/10.1007/s10546-025-00934-9).<br>
