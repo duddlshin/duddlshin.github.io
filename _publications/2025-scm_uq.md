@@ -1,5 +1,5 @@
 ---
-title: " Accelerated Bayesian calibration and uncertainty quantification of RANS turbulence model parameters for stratified atmospheric boundary layer flows"
+title: "Accelerated Bayesian calibration and uncertainty quantification of RANS turbulence model parameters for stratified atmospheric boundary layer flows"
 author: Shin EY & Howland MF
 collection: publications
 category: manuscripts

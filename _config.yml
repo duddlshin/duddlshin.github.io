@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "YoungIn (Ethan) Shin"
+title                    : "Ethan YoungIn Shin"
 title_separator          : "-"
-name                     : &name "YoungIn (Ethan) Shin"
+name                     : &name "Ethan YoungIn Shin"
 description              : &description "personal description"
 url                      : https://duddlshin.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "github_bio_photo.jpeg"
-  name             : "YoungIn (Ethan) Shin"
+  name             : "Ethan YoungIn Shin"
   pronouns         : # "he/him"
   bio              : "PhD Candidate in Civil and Environmental Engineering"
   location         : "Cambridge MA, USA"
