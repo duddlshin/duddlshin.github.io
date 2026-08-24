@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Ethan! Thanks for visiting my website."
+title: "Hi, I'm Ethan! Welcome to my website."
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +15,7 @@ I couple multifidelity simulations of atmospheric boundary layer (ABL) flows wit
 By bridging physics-based theory and data-driven inference with the aid of machine learning tools, I seek to advance fundamental understanding of our atmospheric boundary layer, to support critical decision making in applications such as numerical weather forecasting, climate modeling, wind‐energy systems, and urban planning.
 If this aligns with your interests, get in touch.
 
-When I'm not in the lab, you can find me playing basketball at the Zesiger Center, running along the Charles River, or reading my Kindle in a random cafe.
+When I'm not in the lab, you can find me running along the Charles River, playing basketball at the Zesiger Center, or reading in a random cafe.
 
 
 

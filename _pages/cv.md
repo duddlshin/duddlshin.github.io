@@ -13,7 +13,7 @@ redirect_from:
 
 <div style="width:100%; height:80vh; border:1px solid #ccc;">
   <iframe
-    src="{{ '/files/CV_05082026.pdf' | relative_url }}"
+    src="{{ '/files/CV_08242026.pdf' | relative_url }}"
     width="100%"
     height="100%"
     style="border: none;"
