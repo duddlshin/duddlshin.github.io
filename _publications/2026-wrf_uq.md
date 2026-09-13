@@ -1,6 +1,6 @@
 ---
 title: "Connecting the forward problem to the inverse problem in uncertainty quantification of Earth system models using fast emulators"
-author: **Shin EY**, Kale B, & Howland MF
+author: "**Shin EY**, Kale B, & Howland MF"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-wrf_uq
