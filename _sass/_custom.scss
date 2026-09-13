@@ -20,3 +20,8 @@
 .page__content a:hover {
   border-bottom-color: currentColor;
 }
+
+/* Square profile photo instead of a circle */
+.author__avatar img {
+  border-radius: 6px;
+}
