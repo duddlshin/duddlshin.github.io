@@ -21,8 +21,8 @@ When I'm not in the lab, you can find me running along the Charles River, playin
 
 ## **News**
 
-**August 2026** - New [preprint](https://doi.org/10.48550/arXiv.2608.21549) in ArXiv.
-**April 2026** - New [preprint](https://doi.org/10.48550/arXiv.2604.19500) in ArXiv.
+**August 2026** - New [preprint](https://doi.org/10.48550/arXiv.2608.21549) in ArXiv.<br>
+**April 2026** - New [preprint](https://doi.org/10.48550/arXiv.2604.19500) in ArXiv.<br>
 **April 2026** — I presented a talk at an Environmental Fluid Mechanics (EFM) meeting held at MIT.<br>
 **April 2026** — I presented a poster at the 2026 Member Meetings Poster Session on AI for Sustainability held by the MIT Climate & Sustainability Consortium.<br>
 **November 2025** — I presented a talk at the 78th meeting of APS DFD in Houston, TX.<br>
