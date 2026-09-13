@@ -21,18 +21,20 @@ When I'm not in the lab, you can find me running along the Charles River, playin
 
 ## **News**
 
+**August 2026** - New [preprint](https://doi.org/10.48550/arXiv.2608.21549) in ArXiv.
+**April 2026** - New [preprint](https://doi.org/10.48550/arXiv.2604.19500) in ArXiv.
 **April 2026** — I presented a talk at an Environmental Fluid Mechanics (EFM) meeting held at MIT.<br>
 **April 2026** — I presented a poster at the 2026 Member Meetings Poster Session on AI for Sustainability held by the MIT Climate & Sustainability Consortium.<br>
 **November 2025** — I presented a talk at the 78th meeting of APS DFD in Houston, TX.<br>
-**November 2025** — Our paper was published in [Boundary Layer Meteorology](https://doi.org/10.1007/s10546-025-00945-6).<br>
-**November 2025** — Our paper was published in [Boundary Layer Meteorology](https://doi.org/10.1007/s10546-025-00934-9).<br>
+**November 2025** — Our [paper](https://doi.org/10.1007/s10546-025-00945-6) was published in Boundary Layer Meteorology.<br>
+**November 2025** — Our [paper](https://doi.org/10.1007/s10546-025-00934-9) was published in Boundary Layer Meteorology.<br>
 
 <details markdown="1">
 <summary>Earlier news</summary>
 **June 2025** — I was awarded 1st Place Best Student Oral Presentation by the American Meteorological Society for my talk at the 25th Symposium on Boundary Layers and Turbulence in Torino, Italy.<br>
 **February 2025** — I presented a poster with Dr. Baris Kale at the 2025 CEE Annual Research Day.<br>
 **February 2025** — I became a student member of the Committee on Boundary Layers and Turbulence, American Meteorological Society.<br>
-**December 2024** — Our report was published in [Proceedings of the Summer Program, Center for Turbulence Research, Stanford University](https://www.researchgate.net/profile/Tony-Zahtila-2/publication/388359360_Multifidelity_modeling_and_uncertainty_quantification_of_heterogeneous_roughness/links/6793eb514c479b26c9b2e7be/Multifidelity-modeling-and-uncertainty-quantification-of-heterogeneous-roughness.pdf).<br>
+**December 2024** — Our [report](https://www.researchgate.net/profile/Tony-Zahtila-2/publication/388359360_Multifidelity_modeling_and_uncertainty_quantification_of_heterogeneous_roughness/links/6793eb514c479b26c9b2e7be/Multifidelity-modeling-and-uncertainty-quantification-of-heterogeneous-roughness.pdf) was published in Proceedings of the Summer Program, Center for Turbulence Research, Stanford University.<br>
 **December 2024** — I presented a talk at the AGU24 Annual Meeting in Washington, D.C.<br>
 **November 2024** — I presented an invited talk at the 77th meeting of APS DFD in Salt Lake City, UT.<br>
 **August 2024** — I presented a poster at the KSEA Scientists and Engineers Early Career Development (SEED 2024) program.<br>
