@@ -136,3 +136,20 @@
   margin: 0.5em 0 0;
   padding-left: 1.4em;
 }
+
+.teaching-certificate {
+  width: 100%;
+  max-width: none;
+  margin-top: 2.5em;
+}
+
+.certificate-preview {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--global-border-color);
+}
+
+.certificate-link {
+  display: block;
+}
