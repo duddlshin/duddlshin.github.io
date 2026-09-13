@@ -1,5 +1,5 @@
 <div class="pub-item">
-  <p class="pub-title">{{ post.title }}</p>
+  <p class="pub-title">&ldquo;{{ post.title }}&rdquo;</p>
   {% if post.author %}<p class="pub-authors">{{ post.author | markdownify | remove: "<p>" | remove: "</p>" }}</p>{% endif %}
   <p class="pub-meta"><em>{{ post.venue }}</em>{% if post.date %} ({{ post.date | date: "%Y" }}){% endif %}{% if post.paperurl %} [<a href="{{ post.paperurl }}" target="_blank" rel="noopener">{% if post.date %}Article{% else %}preprint{% endif %}</a>]{% endif %}</p>
 </div>
