@@ -7,20 +7,39 @@ author_profile: true
 
 {% if site.talkmap_link == true %}
   <p>
-    <a href="/talkmap.html">See a map of all the places I've given a talk!</a>
+    <a href="{{ '/talkmap.html' | relative_url }}">
+      See a map of all the places I've given a talk!
+    </a>
   </p>
 {% endif %}
 
-{% assign talks = site.talks | sort: "date" | reverse %}
-{% assign current_year = "" %}
+{% assign talk_categories = "oral|Oral presentations,posters|Posters" | split: "," %}
 
-{% for post in talks %}
-  {% assign year = post.date | date: "%Y" %}
+{% for category_data in talk_categories %}
+  {% assign category_parts = category_data | split: "|" %}
+  {% assign category_key = category_parts[0] %}
+  {% assign category_title = category_parts[1] %}
 
-  {% if year != current_year %}
-    {% assign current_year = year %}
-    <h3 class="talk-year">{{ year }}</h3>
+  {% assign category_talks = site.talks
+    | where: "category", category_key
+    | sort: "date"
+    | reverse
+  %}
+
+  {% if category_talks.size > 0 %}
+    <h2 class="pub-category">{{ category_title }}</h2>
+
+    {% assign current_year = "" %}
+
+    {% for post in category_talks %}
+      {% assign year = post.date | date: "%Y" %}
+
+      {% if year != current_year %}
+        {% assign current_year = year %}
+        <h3 class="pub-year">{{ year }}</h3>
+      {% endif %}
+
+      {% include talk-entry.html %}
+    {% endfor %}
   {% endif %}
-
-  {% include talk-entry.html %}
 {% endfor %}

@@ -42,43 +42,36 @@
 }
 
 
-/* Compact chronological publication and talk lists */
+/* Compact chronological lists */
 .pub-category {
   margin-top: 1.6em;
 }
 
-.pub-year,
-.talk-year {
+.pub-year {
   margin: 1.3em 0 0.5em;
   padding-bottom: 0.2em;
   border-bottom: 1px solid var(--global-border-color);
 }
 
-.pub-item,
-.talk-item {
+.pub-item {
   margin-bottom: 1em;
 }
 
-.pub-item p,
-.talk-item p {
+.pub-item p {
   margin: 0;
   max-width: none;
   line-height: 1.4;
 }
 
-.pub-item .pub-title,
-.talk-item .talk-title {
+.pub-item .pub-title {
   font-weight: normal;
 }
 
 .pub-item .pub-authors,
-.pub-item .pub-meta,
-.talk-item .talk-venue,
-.talk-item .talk-meta {
+.pub-item .pub-meta {
   font-size: 0.95em;
 }
 
-.pub-item .pub-meta,
-.talk-item .talk-meta {
+.pub-item .pub-meta {
   color: var(--global-fig-caption-color);
 }
