@@ -1,0 +1,26 @@
+<div class="talk-item">
+  <p class="talk-title">&ldquo;{{ post.title }}&rdquo;</p>
+
+  {% if post.venue %}
+    <p class="talk-venue">
+      <em>{{ post.venue }}</em>
+    </p>
+  {% endif %}
+
+  <p class="talk-meta">
+    {% if post.type %}{{ post.type }}{% endif %}
+
+    {% if post.location %}
+      {% if post.type %}, {% endif %}
+      {{ post.location }}
+    {% endif %}
+
+    {% if post.date %}
+      ({{ post.date | date: "%Y" }})
+    {% endif %}
+
+    {% if post.abstracturl %}
+      [<a href="{{ post.abstracturl }}" target="_blank" rel="noopener">abstract</a>]
+    {% endif %}
+  </p>
+</div>
