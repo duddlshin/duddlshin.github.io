@@ -5,8 +5,42 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% assign teaching = site.teaching | sort: "date" | reverse %}
+{% assign teaching_posts = site.teaching | sort: "date" | reverse %}
 
-{% for post in teaching %}
-  {% include teaching-entry.html %}
+{% for post in teaching_posts %}
+  <div class="pub-item teaching-item">
+
+    <p class="pub-title">{{ post.title }}</p>
+
+    {% if post.venue %}
+      <p class="pub-authors">
+        <em>{{ post.venue }}</em>
+      </p>
+    {% endif %}
+
+    <p class="pub-meta">
+      {% if post.type %}{{ post.type }}{% endif %}
+      {% if post.term %}, {{ post.term }}{% endif %}
+      {% if post.location %} · {{ post.location }}{% endif %}
+    </p>
+
+    {% if post.role or post.instructor %}
+      <p class="teaching-role">
+        {% if post.role %}
+          <strong>Role:</strong> {{ post.role }}
+        {% endif %}
+
+        {% if post.role and post.instructor %} · {% endif %}
+
+        {% if post.instructor %}
+          <strong>Instructor:</strong> {{ post.instructor }}
+        {% endif %}
+      </p>
+    {% endif %}
+
+    <div class="teaching-description">
+      {{ post.content }}
+    </div>
+
+  </div>
 {% endfor %}
