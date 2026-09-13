@@ -23,20 +23,24 @@
   {% endif %}
 
   {% if post.content != "" %}
-    <div class="teaching-description">
-      <p class="teaching-label">Course description</p>
-      {{ post.content }}
-    </div>
+    <details class="teaching-details">
+      <summary>Course description</summary>
+      <div class="teaching-details-content">
+        {{ post.content }}
+      </div>
+    </details>
   {% endif %}
 
   {% if post.responsibilities and post.responsibilities.size > 0 %}
-    <details class="teaching-responsibilities">
+    <details class="teaching-details">
       <summary>Teaching responsibilities</summary>
-      <ul>
-        {% for responsibility in post.responsibilities %}
-          <li>{{ responsibility }}</li>
-        {% endfor %}
-      </ul>
+      <div class="teaching-details-content">
+        <ul>
+          {% for responsibility in post.responsibilities %}
+            <li>{{ responsibility }}</li>
+          {% endfor %}
+        </ul>
+      </div>
     </details>
   {% endif %}
 

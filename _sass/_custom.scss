@@ -168,3 +168,42 @@
 .teaching-certificate {
   margin-bottom: 0;
 }
+
+/* Teaching toggles */
+.teaching-details {
+  width: 100%;
+  max-width: none;
+  margin-top: 0.5em;
+  font-size: 0.95em;
+  line-height: 1.5;
+}
+
+.teaching-details + .teaching-details {
+  margin-top: 0.25em;
+}
+
+.teaching-details summary {
+  width: fit-content;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.teaching-details-content {
+  width: 100%;
+  max-width: none;
+  margin-top: 0.4em;
+}
+
+.teaching-details-content p {
+  max-width: none;
+  margin: 0 0 0.5em;
+}
+
+.teaching-details-content ul {
+  margin: 0.25em 0 0.5em;
+  padding-left: 1.4em;
+}
+
+.teaching-details-content li {
+  margin-bottom: 0.2em;
+}
