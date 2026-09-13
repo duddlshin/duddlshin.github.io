@@ -75,3 +75,36 @@
 .pub-item .pub-meta {
   color: var(--global-fig-caption-color);
 }
+
+
+.teaching-item {
+  margin-bottom: 1.75em;
+}
+
+.teaching-role {
+  margin-top: 0.3em !important;
+  font-size: 0.95em;
+  line-height: 1.4;
+}
+
+.teaching-description {
+  margin-top: 0.65em;
+  font-size: 0.95em;
+  line-height: 1.5;
+}
+
+.teaching-description h3 {
+  margin: 0.8em 0 0.25em;
+  font-size: 1em;
+  font-weight: 600;
+}
+
+.teaching-description p {
+  margin: 0 0 0.5em;
+  max-width: none;
+}
+
+.teaching-description ul {
+  margin: 0.25em 0 0.5em;
+  padding-left: 1.25em;
+}
