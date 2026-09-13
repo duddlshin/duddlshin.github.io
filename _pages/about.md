@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 I am a Ph.D. candidate in the [Department of Civil and Environmental Engineering](https://cee.mit.edu) (CEE) at the Massachusetts Institute of Technology (MIT), working with Professor Michael F. Howland in the [Howland Lab](https://www.howlandlab.com).
-My research lies at the intersection of environmental flow physics and computational science, with a current emphasis on uncertainty quantification.
-I couple multifidelity simulations of atmospheric boundary layer (ABL) flows with forward and inverse uncertainty quantification methods, drawing on both high-fidelity simulation data and field observations, to improve parameterizations of turbulence in the ABL.
-By bridging physics-based theory and data-driven inference with the aid of machine learning tools, I seek to advance fundamental understanding of the atmospheric boundary layer and to support critical decision-making in applications such as numerical weather forecasting, climate modeling, wind‐energy systems, and urban planning.
-If this aligns with your interests, get in touch.
+My research lies at the intersection of environmental flow physics and computational science, with an emphasis on uncertainty quantification.
+I couple multifidelity simulations of atmospheric flows with forward and inverse uncertainty quantification methods, drawing on both high-fidelity simulation data and field observations, to improve the modeling of turbulence in the atmospheric boundary layer (ABL).
+By bridging physics-based theory and data-driven inference with the aid of machine learning tools, I seek to advance our fundamental understanding of the ABL and to support critical decision-making in applications such as numerical weather forecasting, climate modeling, energy systems, and urban planning.
+If this aligns with your interests, get in touch!
 
-When I'm not in the lab, you can find me running along the Charles River, playing basketball at the Zesiger Center, or reading in a random cafe.
+Outside the lab, you may find me training for my next marathon, playing pick-up basketball, or enjoying a good book with a cup of coffee.
 
 
 
@@ -48,10 +48,3 @@ When I'm not in the lab, you can find me running along the Charles River, playin
 **May 2023** — I participated virtually in the von Karman Institute Lecture Series on CFD for Atmospheric Flows and Wind Engineering.<br>
 **September 2022** — I graduated from Yonsei University with a bachelor's degree in Mechanical Engineering.
 </details>
-
-<!-- <div style="display: flex; gap: 1rem; justify-content: center; margin-top: 2rem;">
-  <img src="/files/basketball.png" alt="" style="width: 30%; border-radius: 8px;">
-  <img src="/files/running.png"    alt="" style="width: 30%; border-radius: 8px;">
-  <img src="/files/reading.png"     alt="" style="width: 30%; border-radius: 8px;">
-</div>
- -->
