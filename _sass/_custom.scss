@@ -77,34 +77,73 @@
 }
 
 
+
+
+/* Teaching entries */
 .teaching-item {
-  margin-bottom: 1.75em;
+  width: 100%;
+  max-width: none;
+  margin-bottom: 2em;
 }
 
-.teaching-role {
-  margin-top: 0.3em !important;
+.teaching-item p,
+.teaching-description,
+.teaching-description p,
+.teaching-responsibilities {
+  width: 100%;
+  max-width: none;
+}
+
+.teaching-title {
+  margin: 0;
+  font-size: 1em;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.teaching-venue,
+.teaching-meta {
+  margin: 0;
   font-size: 0.95em;
   line-height: 1.4;
 }
 
+.teaching-meta {
+  color: var(--global-fig-caption-color);
+}
+
 .teaching-description {
-  margin-top: 0.65em;
+  margin-top: 0.75em;
   font-size: 0.95em;
   line-height: 1.5;
 }
 
-.teaching-description h3 {
-  margin: 0.8em 0 0.25em;
-  font-size: 1em;
+.teaching-description .teaching-label {
+  margin: 0 0 0.15em;
   font-weight: 600;
 }
 
-.teaching-description p {
-  margin: 0 0 0.5em;
-  max-width: none;
+.teaching-description > p:not(.teaching-label) {
+  margin: 0;
 }
 
-.teaching-description ul {
-  margin: 0.25em 0 0.5em;
-  padding-left: 1.25em;
+.teaching-responsibilities {
+  margin-top: 0.6em;
+  font-size: 0.95em;
+  line-height: 1.5;
+}
+
+.teaching-responsibilities summary {
+  width: fit-content;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.teaching-responsibilities ul {
+  margin: 0.5em 0 0;
+  padding-left: 1.4em;
+}
+
+.teaching-responsibilities li {
+  margin-bottom: 0.2em;
 }

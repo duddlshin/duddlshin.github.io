@@ -1,24 +1,46 @@
-<div class="pub-item">
-  <!-- Plain, non-clickable title -->
-  <p class="pub-title">{{ post.title }}</p>
+<div class="teaching-item">
 
-  {% if post.institution %}
-    <p class="pub-authors">
-      <em>{{ post.institution }}</em>
+  <p class="teaching-title">{{ post.title }}</p>
+
+  {% if post.venue %}
+    <p class="teaching-venue">
+      <em>{{ post.venue }}</em>
     </p>
   {% endif %}
 
-  {% if post.role or post.term %}
-    <p class="pub-meta">
-      {% if post.role %}{{ post.role }}{% endif %}
-      {% if post.role and post.term %}, {% endif %}
-      {% if post.term %}{{ post.term }}{% endif %}
+  <p class="teaching-meta">
+    {% if post.type %}{{ post.type }}{% endif %}
+    {% if post.term %}
+      {% if post.type %}, {% endif %}
+      {{ post.term }}
+    {% endif %}
+    {% if post.location %} · {{ post.location }}{% endif %}
+  </p>
+
+  {% if post.role or post.instructor %}
+    <p class="teaching-meta">
+      {% if post.role %}<strong>Role:</strong> {{ post.role }}{% endif %}
+      {% if post.role and post.instructor %} · {% endif %}
+      {% if post.instructor %}
+        <strong>Instructor:</strong> {{ post.instructor }}
+      {% endif %}
     </p>
   {% endif %}
 
-  {% if post.description %}
-    <div class="teaching-description">
-      {{ post.description | markdownify }}
-    </div>
+  <div class="teaching-description">
+    <p class="teaching-label">Course description</p>
+    {{ post.content }}
+  </div>
+
+  {% if post.responsibilities and post.responsibilities.size > 0 %}
+    <details class="teaching-responsibilities">
+      <summary>Teaching responsibilities</summary>
+      <ul>
+        {% for responsibility in post.responsibilities %}
+          <li>{{ responsibility }}</li>
+        {% endfor %}
+      </ul>
+    </details>
   {% endif %}
+
 </div>
