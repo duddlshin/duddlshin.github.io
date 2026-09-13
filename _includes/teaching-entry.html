@@ -1,36 +1,33 @@
 <div class="teaching-item">
 
-  <p class="teaching-title">{{ post.title }}</p>
-
-  {% if post.venue %}
-    <p class="teaching-venue">
-      <em>{{ post.venue }}</em>
-    </p>
-  {% endif %}
+  <p class="teaching-title">
+    {{ post.title }}{% if post.term %} ({{ post.term }}){% endif %}
+  </p>
 
   <p class="teaching-meta">
     {% if post.type %}{{ post.type }}{% endif %}
-    {% if post.term %}
-      {% if post.type %}, {% endif %}
-      {{ post.term }}
-    {% endif %}
-    {% if post.location %} · {{ post.location }}{% endif %}
+    {% if post.type and post.venue %}, {% endif %}
+    {% if post.venue %}{{ post.venue }}{% endif %}
   </p>
 
-  {% if post.role or post.instructor %}
+  {% if post.instructor %}
     <p class="teaching-meta">
-      {% if post.role %}<strong>Role:</strong> {{ post.role }}{% endif %}
-      {% if post.role and post.instructor %} · {% endif %}
-      {% if post.instructor %}
-        <strong>Instructor:</strong> {{ post.instructor }}
-      {% endif %}
+      <strong>Instructor:</strong> {{ post.instructor }}
     </p>
   {% endif %}
 
-  <div class="teaching-description">
-    <p class="teaching-label">Course description</p>
-    {{ post.content }}
-  </div>
+  {% if post.role %}
+    <p class="teaching-meta">
+      <strong>My role:</strong> {{ post.role }}
+    </p>
+  {% endif %}
+
+  {% if post.content != "" %}
+    <div class="teaching-description">
+      <p class="teaching-label">Course description</p>
+      {{ post.content }}
+    </div>
+  {% endif %}
 
   {% if post.responsibilities and post.responsibilities.size > 0 %}
     <details class="teaching-responsibilities">

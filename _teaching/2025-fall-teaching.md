@@ -3,9 +3,8 @@ title: "1.61/1.061/1.061A Transport Processes in the Environment"
 collection: teaching
 type: "Graduate/undergraduate course"
 permalink: /teaching/2025-fall-teaching
-venue: "Massachusetts Institute of Technology, Civil and Environmental Engineering"
+venue: "Massachusetts Institute of Technology"
 date: 2025-09-01
-location: "Cambridge, MA, USA"
 term: "Fall 2025"
 role: "Teaching Assistant"
 instructor: "Professor Heidi Nepf"

@@ -3,9 +3,8 @@ title: "1.086/1.861 Physics and Engineering of Renewable Energy Systems"
 collection: teaching
 type: "Graduate/undergraduate course"
 permalink: /teaching/2026-spring-teaching
-venue: "Massachusetts Institute of Technology, Civil and Environmental Engineering"
+venue: "Massachusetts Institute of Technology"
 date: 2026-02-03
-location: "Cambridge, MA, USA"
 term: "Spring 2026"
 role: "Teaching Assistant"
 instructor: "Professor Michael F. Howland"

@@ -90,41 +90,35 @@
 .teaching-description,
 .teaching-description p,
 .teaching-responsibilities {
-  width: 100%;
   max-width: none;
 }
 
 .teaching-title {
   margin: 0;
   font-size: 1em;
-  font-weight: 700;
   line-height: 1.4;
+  font-weight: 700 !important;
 }
 
-.teaching-venue,
 .teaching-meta {
   margin: 0;
   font-size: 0.95em;
   line-height: 1.4;
 }
 
-.teaching-meta {
-  color: var(--global-fig-caption-color);
-}
-
 .teaching-description {
-  margin-top: 0.75em;
+  margin-top: 0.7em;
   font-size: 0.95em;
   line-height: 1.5;
 }
 
-.teaching-description .teaching-label {
-  margin: 0 0 0.15em;
+.teaching-label {
+  margin-bottom: 0.15em !important;
   font-weight: 600;
 }
 
 .teaching-description > p:not(.teaching-label) {
-  margin: 0;
+  margin-top: 0;
 }
 
 .teaching-responsibilities {
@@ -134,7 +128,6 @@
 }
 
 .teaching-responsibilities summary {
-  width: fit-content;
   cursor: pointer;
   font-weight: 600;
 }
@@ -142,8 +135,4 @@
 .teaching-responsibilities ul {
   margin: 0.5em 0 0;
   padding-left: 1.4em;
-}
-
-.teaching-responsibilities li {
-  margin-bottom: 0.2em;
 }
