@@ -26,6 +26,9 @@ When I'm not in the lab, you can find me running along the Charles River, playin
 **November 2025** — I presented a talk at the 78th meeting of APS DFD in Houston, TX.<br>
 **November 2025** — Our paper was published in [Boundary Layer Meteorology](https://doi.org/10.1007/s10546-025-00945-6).<br>
 **November 2025** — Our paper was published in [Boundary Layer Meteorology](https://doi.org/10.1007/s10546-025-00934-9).<br>
+
+<details markdown="1">
+<summary>Earlier news</summary>
 **June 2025** — I was awarded 1st Place Best Student Oral Presentation by the American Meteorological Society for my talk at the 25th Symposium on Boundary Layers and Turbulence in Torino, Italy.<br>
 **February 2025** — I presented a poster with Dr. Baris Kale at the 2025 CEE Annual Research Day.<br>
 **February 2025** — I became a student member of the Committee on Boundary Layers and Turbulence, American Meteorological Society.<br>
@@ -42,7 +45,7 @@ When I'm not in the lab, you can find me running along the Charles River, playin
 **June 2023** — I received the 2023-2024 CEE MathWorks Fellowship.<br>
 **May 2023** — I participated virtually in the von Karman Institute Lecture Series on CFD for Atmospheric Flows and Wind Engineering.<br>
 **September 2022** — I graduated from Yonsei University with a bachelor's degree in Mechanical Engineering.
-
+</details>
 
 <!-- <div style="display: flex; gap: 1rem; justify-content: center; margin-top: 2rem;">
   <img src="/files/basketball.png" alt="" style="width: 30%; border-radius: 8px;">
