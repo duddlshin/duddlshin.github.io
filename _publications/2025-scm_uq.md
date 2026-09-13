@@ -4,7 +4,7 @@ author: "**Shin EY** & Howland MF"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-scm_uq
-date:        2025-11-22      
+date:        2026-01-01      
 venue:      "Boundary-Layer Meteorology"
 paperurl: "https://doi.org/10.1007/s10546-025-00945-6"
 citation: "Cite this article
