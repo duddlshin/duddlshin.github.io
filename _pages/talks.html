@@ -13,33 +13,38 @@ author_profile: true
   </p>
 {% endif %}
 
-{% assign talk_categories = "oral|Oral presentations,posters|Posters" | split: "," %}
+{% assign oral_talks = site.talks | where: "category", "oral" | sort: "date" | reverse %}
 
-{% for category_data in talk_categories %}
-  {% assign category_parts = category_data | split: "|" %}
-  {% assign category_key = category_parts[0] %}
-  {% assign category_title = category_parts[1] %}
+{% if oral_talks.size > 0 %}
+  <h2 class="pub-category">Oral presentations</h2>
 
-  {% assign category_talks = site.talks
-    | where: "category", category_key
-    | sort: "date"
-    | reverse
-  %}
+  {% assign current_year = "" %}
+  {% for post in oral_talks %}
+    {% assign year = post.date | date: "%Y" %}
 
-  {% if category_talks.size > 0 %}
-    <h2 class="pub-category">{{ category_title }}</h2>
+    {% if year != current_year %}
+      {% assign current_year = year %}
+      <h3 class="pub-year">{{ year }}</h3>
+    {% endif %}
 
-    {% assign current_year = "" %}
+    {% include talk-entry.html %}
+  {% endfor %}
+{% endif %}
 
-    {% for post in category_talks %}
-      {% assign year = post.date | date: "%Y" %}
+{% assign poster_talks = site.talks | where: "category", "poster" | sort: "date" | reverse %}
 
-      {% if year != current_year %}
-        {% assign current_year = year %}
-        <h3 class="pub-year">{{ year }}</h3>
-      {% endif %}
+{% if poster_talks.size > 0 %}
+  <h2 class="pub-category">Poster presentations</h2>
 
-      {% include talk-entry.html %}
-    {% endfor %}
-  {% endif %}
-{% endfor %}
+  {% assign current_year = "" %}
+  {% for post in poster_talks %}
+    {% assign year = post.date | date: "%Y" %}
+
+    {% if year != current_year %}
+      {% assign current_year = year %}
+      <h3 class="pub-year">{{ year }}</h3>
+    {% endif %}
+
+    {% include talk-entry.html %}
+  {% endfor %}
+{% endif %}
