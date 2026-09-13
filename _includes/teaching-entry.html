@@ -1,0 +1,24 @@
+<div class="pub-item">
+  <!-- Plain, non-clickable title -->
+  <p class="pub-title">{{ post.title }}</p>
+
+  {% if post.institution %}
+    <p class="pub-authors">
+      <em>{{ post.institution }}</em>
+    </p>
+  {% endif %}
+
+  {% if post.role or post.term %}
+    <p class="pub-meta">
+      {% if post.role %}{{ post.role }}{% endif %}
+      {% if post.role and post.term %}, {% endif %}
+      {% if post.term %}{{ post.term }}{% endif %}
+    </p>
+  {% endif %}
+
+  {% if post.description %}
+    <div class="teaching-description">
+      {{ post.description | markdownify }}
+    </div>
+  {% endif %}
+</div>

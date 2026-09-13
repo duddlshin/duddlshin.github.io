@@ -5,8 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% assign teaching = site.teaching | sort: "date" | reverse %}
+<p>Teaching entries found: {{ site.teaching | size }}</p>
 
-{% for post in teaching %}
+{% assign teaching_posts = site.teaching | sort: "date" | reverse %}
+
+{% for post in teaching_posts %}
   {% include teaching-entry.html %}
 {% endfor %}
