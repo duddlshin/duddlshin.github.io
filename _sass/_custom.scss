@@ -153,3 +153,18 @@
 .certificate-link {
   display: block;
 }
+
+/* Space between classes */
+.teaching-item + .teaching-item {
+  margin-top: 2.5em;
+}
+
+/* Space between the final class and certificate */
+.teaching-item + .teaching-certificate {
+  margin-top: 3.5em;
+}
+
+.teaching-item,
+.teaching-certificate {
+  margin-bottom: 0;
+}
