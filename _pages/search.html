@@ -1,0 +1,35 @@
+---
+title: "Search"
+permalink: /search/
+layout: archive
+author_profile: true
+---
+
+<input type="text" id="search-input" placeholder="Search the site…" aria-label="Search" style="width:100%;max-width:42em;padding:0.5em;font-size:1em;">
+<ul id="search-results" style="list-style:none;padding-left:0;margin-top:1em;"></ul>
+
+<script>
+(function () {
+  var input = document.getElementById('search-input');
+  var results = document.getElementById('search-results');
+  var data = [];
+  fetch('{{ "/search.json" | relative_url }}')
+    .then(function (r) { return r.json(); })
+    .then(function (j) { data = j.filter(function (d) { return d.title; }); });
+  input.addEventListener('input', function () {
+    var q = this.value.trim().toLowerCase();
+    results.innerHTML = '';
+    if (q.length < 2) return;
+    data.filter(function (d) {
+      return (d.title + ' ' + d.content).toLowerCase().indexOf(q) !== -1;
+    }).slice(0, 20).forEach(function (d) {
+      var li = document.createElement('li');
+      li.style.marginBottom = '0.6em';
+      var a = document.createElement('a');
+      a.href = d.url; a.textContent = d.title;
+      li.appendChild(a);
+      results.appendChild(li);
+    });
+  });
+})();
+</script>

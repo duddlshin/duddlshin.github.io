@@ -1,0 +1,13 @@
+---
+layout: null
+---
+[
+{% assign coll = site.pages | concat: site.publications | concat: site.talks | concat: site.teaching %}
+{% for item in coll %}{% if item.title %}{
+  "title": {{ item.title | jsonify }},
+  "url": {{ item.url | relative_url | jsonify }},
+  "content": {{ item.content | strip_html | strip_newlines | truncate: 1000 | jsonify }}
+},
+{% endif %}{% endfor %}
+{"title": "", "url": "", "content": ""}
+]
