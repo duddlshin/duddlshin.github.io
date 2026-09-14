@@ -18,6 +18,10 @@ If this aligns with your interests, [get in touch](mailto:{{ site.author.email }
 Outside the lab, you may find me training for my next marathon, playing pick-up basketball, or enjoying a good book with a cup of coffee.
 
 
+<p align="center">
+  <img src="/images/tanzania.jpg" alt="Ngorongoro Crater, Tanzania" width="500">
+</p>
+
 
 ## **News**
 
