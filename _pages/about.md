@@ -19,7 +19,7 @@ Outside the lab, you may find me training for my next marathon, playing pick-up 
 
 
 <p align="center">
-  <img src="/images/tanzania.jpg" alt="Ngorongoro Crater, Tanzania" width="500">
+  <img src="/images/tanzania.png" alt="Ngorongoro Crater, Tanzania" width="500">
 </p>
 
 
