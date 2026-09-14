@@ -19,9 +19,9 @@ Outside the lab, you may find me training for my next marathon, playing pick-up 
 
 
 <figure style="margin:0;">
-  <img src="/images/tanzania.png" alt="The atmospheric boundary layer over Ngorongoro Crater, Tanzania" style="width:100%; height:auto;">
+  <img src="/images/tanzania.png" alt="The atmospheric boundary layer over Ngorongoro Crater, Tanzania (Oct. 2021)" style="width:100%; height:auto;">
   <figcaption style="text-align:center; font-size:0.85em; color:#666; margin-top:0.4em;">
-    The atmospheric boundary layer over Ngorongoro Crater, Tanzania
+    The atmospheric boundary layer over Ngorongoro Crater, Tanzania (Oct. 2021)
   </figcaption>
 </figure>
 
