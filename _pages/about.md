@@ -1,12 +1,7 @@
 ---
 permalink: /
-title: "About me"
+title: " "
 author_profile: true
-header:
-  overlay_image: tanzania.png
-  overlay_filter: 0.5
-  caption: "The atmospheric boundary layer over Ngorongoro Crater, Tanzania (Oct. 2021)"
-
 redirect_from: 
   - /about/
   - /about.html
