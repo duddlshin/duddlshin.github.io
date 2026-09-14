@@ -18,9 +18,12 @@ If this aligns with your interests, [get in touch](mailto:{{ site.author.email }
 Outside the lab, you may find me training for my next marathon, playing pick-up basketball, or enjoying a good book with a cup of coffee.
 
 
-<p align="center">
-  <img src="/images/tanzania.png" alt="Ngorongoro Crater, Tanzania" style="width:100%; height:auto;">
-</p>
+<figure style="margin:0;">
+  <img src="/images/tanzania.png" alt="The atmospheric boundary layer over Ngorongoro Crater, Tanzania" style="width:100%; height:auto;">
+  <figcaption style="text-align:center; font-size:0.85em; color:#666; margin-top:0.4em;">
+    The atmospheric boundary layer over Ngorongoro Crater, Tanzania
+  </figcaption>
+</figure>
 
 
 ## **News**
