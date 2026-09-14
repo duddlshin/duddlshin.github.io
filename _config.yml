@@ -242,7 +242,7 @@ defaults:
       related: true
       header:
         overlay_image: tanzania.png
-        overlay_filter: 0.05
+        overlay_filter: 0.01
         caption: "The atmospheric boundary layer over Ngorongoro Crater, Tanzania (Oct. 2021)"
   # _pages
   - scope:
@@ -253,7 +253,7 @@ defaults:
       author_profile: true
       header:
         overlay_image: tanzania.png
-        overlay_filter: 0.05
+        overlay_filter: 0.01
         caption: "The atmospheric boundary layer over Ngorongoro Crater, Tanzania (Oct. 2021)"
   # _teaching
   - scope:
@@ -266,7 +266,7 @@ defaults:
       comments: true
       header:
         overlay_image: tanzania.png
-        overlay_filter: 0.05
+        overlay_filter: 0.01
         caption: "The atmospheric boundary layer over Ngorongoro Crater, Tanzania (Oct. 2021)"
   # _publications
   - scope:
@@ -279,7 +279,7 @@ defaults:
       comments: true
       header:
         overlay_image: tanzania.png
-        overlay_filter: 0.05
+        overlay_filter: 0.01
         caption: "The atmospheric boundary layer over Ngorongoro Crater, Tanzania (Oct. 2021)"
   # _talks
   - scope:
@@ -291,7 +291,7 @@ defaults:
       share: true
       header:
         overlay_image: tanzania.png
-        overlay_filter: 0.05
+        overlay_filter: 0.01
         caption: "The atmospheric boundary layer over Ngorongoro Crater, Tanzania (Oct. 2021)"
 
 # Sass/SCSS
