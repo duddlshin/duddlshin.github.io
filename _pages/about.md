@@ -13,7 +13,7 @@ I am a Ph.D. candidate in the [Department of Civil and Environmental Engineering
 My research lies at the intersection of environmental flow physics and computational science, with an emphasis on uncertainty quantification.
 I couple multifidelity simulations of atmospheric flows with forward and inverse uncertainty quantification methods, drawing on both high-fidelity simulation data and field observations, to improve the modeling of turbulence in the atmospheric boundary layer (ABL).
 By bridging physics-based theory and data-driven inference with the aid of machine learning tools, I seek to advance our fundamental understanding of the ABL and to support critical decision-making in applications such as numerical weather forecasting, climate modeling, energy systems, and urban planning.
-If this aligns with your interests, get in touch!
+If this aligns with your interests, [get in touch](mailto:{{ site.author.email }})!
 
 Outside the lab, you may find me training for my next marathon, playing pick-up basketball, or enjoying a good book with a cup of coffee.
 
