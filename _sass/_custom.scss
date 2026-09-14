@@ -216,3 +216,11 @@
 .teaching-certificate .certificate-description {
   margin-bottom: 0.8em;
 }
+
+/* Hero banner: push the page title to the right so it clears the fixed bio sidebar */
+@media screen and (min-width: 1024px) {
+  .page__hero--overlay .wrapper {
+    text-align: right;
+    padding-right: 2em;
+  }
+}
