@@ -15,7 +15,7 @@ My Ph.D. work couples multifidelity models of atmospheric flows with forward and
 
 As a researcher, I am driven by work that creates social impact---across forms and timescales, from tomorrow's forecast to long-term climate projections.
 Building on earlier fieldwork on off-grid renewable energy in Tanzania and my current work modeling and quantifying uncertainty in turbulent ABL flows, I aim to advance two connected objectives: (1) improving atmospheric models by bridging physics-based models with observations through statistical inference and machine learning, and (2) reducing model uncertainty for downstream applications that span sustainability, resilience, energy, and health.
-I am especially excited to bring these tools to real-world decisions made under uncertainty---observing-system design for urban-canopy flows and urban planning; wildfire spread and pollutant dispersion; urban heat islands and near-surface weather extremes; renewable-energy system siting and operation; and climate and weather-prediction models.
+I am eager to bring these tools to real-world decisions made under uncertainty---observing-system design for urban-canopy flows and urban planning; wildfire spread and pollutant dispersion; urban heat islands and weather extremes; and renewable-energy system siting and operation.
 
 If this aligns with your interests, please [get in touch](mailto:{{ site.author.email }})!
 
