@@ -6,6 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
+**October 2026** - I gave a [seminar](https://calendar.mit.edu/event/immec-seminar-with-fan-liu-and-ethan-shin) at the MIT MechE iMMEC (Mechanics, Modeling, Experimentation, Computation) Seminar Series.<br>
 **August 2026** - New [preprint](https://doi.org/10.48550/arXiv.2608.21549) in ArXiv.<br>
 **April 2026** - New [preprint](https://doi.org/10.48550/arXiv.2604.19500) in ArXiv.<br>
 **April 2026** — I presented a talk at an Environmental Fluid Mechanics (EFM) meeting held at MIT.<br>
